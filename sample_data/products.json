@@ -1,0 +1,402 @@
+[
+  {
+    "product_id": "PROD-001",
+    "name": "Sharable bifurcated algorithm",
+    "category": "Home",
+    "unit_cost": 35.18,
+    "stock": 379,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-002",
+    "name": "User-centric even-keeled encryption",
+    "category": "Clothing",
+    "unit_cost": 68.52,
+    "stock": 377,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-003",
+    "name": "Face-to-face client-driven support",
+    "category": "Home",
+    "unit_cost": 222.72,
+    "stock": 279,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-004",
+    "name": "Customer-focused systematic support",
+    "category": "Sports",
+    "unit_cost": 127.73,
+    "stock": 15,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-005",
+    "name": "Quality-focused background parallelism",
+    "category": "Clothing",
+    "unit_cost": 71.33,
+    "stock": 308,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-006",
+    "name": "Optimized 5thgeneration algorithm",
+    "category": "Sports",
+    "unit_cost": 61.25,
+    "stock": 332,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-007",
+    "name": "Cross-group didactic emulation",
+    "category": "Clothing",
+    "unit_cost": 135.86,
+    "stock": 142,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-008",
+    "name": "Profit-focused real-time algorithm",
+    "category": "Beauty",
+    "unit_cost": 242.13,
+    "stock": 357,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-009",
+    "name": "Realigned dedicated structure",
+    "category": "Food",
+    "unit_cost": 84.81,
+    "stock": 110,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-010",
+    "name": "Streamlined tangible moratorium",
+    "category": "Electronics",
+    "unit_cost": 29.64,
+    "stock": 49,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-011",
+    "name": "Operative directional knowledge user",
+    "category": "Beauty",
+    "unit_cost": 104.5,
+    "stock": 135,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-012",
+    "name": "Reverse-engineered even-keeled workforce",
+    "category": "Home",
+    "unit_cost": 138.91,
+    "stock": 63,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-013",
+    "name": "Adaptive well-modulated workforce",
+    "category": "Electronics",
+    "unit_cost": 166.51,
+    "stock": 424,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-014",
+    "name": "Diverse tangible interface",
+    "category": "Sports",
+    "unit_cost": 59.3,
+    "stock": 35,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-015",
+    "name": "Mandatory even-keeled collaboration",
+    "category": "Home",
+    "unit_cost": 69.91,
+    "stock": 148,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-016",
+    "name": "Extended well-modulated Graphical User Interface",
+    "category": "Beauty",
+    "unit_cost": 71.37,
+    "stock": 51,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-017",
+    "name": "Customer-focused background implementation",
+    "category": "Food",
+    "unit_cost": 137.12,
+    "stock": 427,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-018",
+    "name": "Cross-platform heuristic hardware",
+    "category": "Clothing",
+    "unit_cost": 112.31,
+    "stock": 107,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-019",
+    "name": "Robust empowering workforce",
+    "category": "Home",
+    "unit_cost": 281.12,
+    "stock": 331,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-020",
+    "name": "Balanced upward-trending knowledgebase",
+    "category": "Sports",
+    "unit_cost": 191.22,
+    "stock": 273,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-021",
+    "name": "Public-key bottom-line implementation",
+    "category": "Clothing",
+    "unit_cost": 139.75,
+    "stock": 138,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-022",
+    "name": "Configurable neutral frame",
+    "category": "Home",
+    "unit_cost": 98.64,
+    "stock": 393,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-023",
+    "name": "Self-enabling regional hierarchy",
+    "category": "Clothing",
+    "unit_cost": 246.9,
+    "stock": 412,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-024",
+    "name": "Re-engineered content-based strategy",
+    "category": "Books",
+    "unit_cost": 81.79,
+    "stock": 108,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-025",
+    "name": "Cloned 6thgeneration protocol",
+    "category": "Clothing",
+    "unit_cost": 197.32,
+    "stock": 202,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-026",
+    "name": "Focused zero administration frame",
+    "category": "Clothing",
+    "unit_cost": 80.93,
+    "stock": 126,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-027",
+    "name": "Configurable discrete attitude",
+    "category": "Home",
+    "unit_cost": 176.21,
+    "stock": 459,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-028",
+    "name": "Multi-tiered even-keeled knowledgebase",
+    "category": "Food",
+    "unit_cost": 67.36,
+    "stock": 70,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-029",
+    "name": "Sharable high-level complexity",
+    "category": "Electronics",
+    "unit_cost": 227.22,
+    "stock": 440,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-030",
+    "name": "Multi-layered heuristic database",
+    "category": "Clothing",
+    "unit_cost": 188.98,
+    "stock": 405,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-031",
+    "name": "Synchronized encompassing standardization",
+    "category": "Sports",
+    "unit_cost": 20.93,
+    "stock": 195,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-032",
+    "name": "Synergized secondary archive",
+    "category": "Sports",
+    "unit_cost": 76.92,
+    "stock": 283,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-033",
+    "name": "Robust scalable concept",
+    "category": "Home",
+    "unit_cost": 216.78,
+    "stock": 349,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-034",
+    "name": "Public-key upward-trending encryption",
+    "category": "Beauty",
+    "unit_cost": 193.01,
+    "stock": 57,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-035",
+    "name": "Diverse maximized implementation",
+    "category": "Books",
+    "unit_cost": 49.13,
+    "stock": 1,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-036",
+    "name": "Future-proofed scalable solution",
+    "category": "Sports",
+    "unit_cost": 229.06,
+    "stock": 259,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-037",
+    "name": "Realigned directional software",
+    "category": "Beauty",
+    "unit_cost": 188.34,
+    "stock": 430,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-038",
+    "name": "Inverse zero administration time-frame",
+    "category": "Clothing",
+    "unit_cost": 113.43,
+    "stock": 82,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-039",
+    "name": "Centralized discrete alliance",
+    "category": "Sports",
+    "unit_cost": 98.6,
+    "stock": 9,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-040",
+    "name": "Intuitive impactful flexibility",
+    "category": "Food",
+    "unit_cost": 263.86,
+    "stock": 425,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-041",
+    "name": "Cloned didactic open system",
+    "category": "Clothing",
+    "unit_cost": 19.26,
+    "stock": 449,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-042",
+    "name": "Universal foreground data-warehouse",
+    "category": "Electronics",
+    "unit_cost": 220.11,
+    "stock": 417,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-043",
+    "name": "Streamlined modular infrastructure",
+    "category": "Beauty",
+    "unit_cost": 160.75,
+    "stock": 64,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-044",
+    "name": "Stand-alone logistical circuit",
+    "category": "Home",
+    "unit_cost": 143.63,
+    "stock": 281,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-045",
+    "name": "Fundamental client-driven encryption",
+    "category": "Food",
+    "unit_cost": 159.25,
+    "stock": 310,
+    "is_active": false
+  },
+  {
+    "product_id": "PROD-046",
+    "name": "User-friendly next generation monitoring",
+    "category": "Clothing",
+    "unit_cost": 278.82,
+    "stock": 386,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-047",
+    "name": "Fundamental value-added paradigm",
+    "category": "Home",
+    "unit_cost": 94.89,
+    "stock": 343,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-048",
+    "name": "Optimized optimal initiative",
+    "category": "Books",
+    "unit_cost": 270.08,
+    "stock": 231,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-049",
+    "name": "Multi-lateral directional challenge",
+    "category": "Clothing",
+    "unit_cost": 68.96,
+    "stock": 173,
+    "is_active": true
+  },
+  {
+    "product_id": "PROD-050",
+    "name": "Profound modular array",
+    "category": "Sports",
+    "unit_cost": 167.07,
+    "stock": 301,
+    "is_active": true
+  }
+]

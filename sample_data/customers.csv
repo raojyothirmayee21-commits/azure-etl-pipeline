@@ -1,0 +1,101 @@
+customer_id,name,email,country,city,tier,joined_date
+CUST-001,Allison Hill,donaldgarcia@example.net,Uganda,New Roberttown,gold,2023-09-01
+CUST-002,Jonathan Johnson,jennifermiles@example.com,Cyprus,Lawrencetown,bronze,2023-12-13
+CUST-003,Gina Moore,curtis61@example.com,Tanzania,Cassandraton,bronze,2025-03-22
+CUST-004,Valerie Gray,maria95@example.net,Congo,North Donnaport,gold,2023-08-10
+CUST-005,Sharon James,xreid@example.org,Heard Island and McDonald Islands,Jasonview,silver,2026-04-03
+CUST-006,Maria Lynch,amandasanchez@example.com,Hong Kong,Veronicaside,bronze,2024-03-15
+CUST-007,Sarah Parsons,lydiatrujillo@example.com,Ethiopia,East Robinshire,bronze,2024-08-09
+CUST-008,Jonathan Wilkerson,ithomas@example.org,Samoa,Juliechester,bronze,2025-10-01
+CUST-009,Daniel Bright,ddavis@example.org,Cape Verde,Port Erin,gold,2025-10-21
+CUST-010,James Ferrell,tasha01@example.net,Turks and Caicos Islands,Kaylamouth,bronze,2023-09-29
+CUST-011,Christopher Smith,teresa28@example.org,Trinidad and Tobago,Meaganhaven,gold,2025-11-10
+CUST-012,James Martin,georgetracy@example.org,Vanuatu,Natashaport,gold,2024-04-14
+CUST-013,Shawn Arroyo,dennislisa@example.net,Seychelles,East Donna,gold,2025-08-10
+CUST-014,Joseph Obrien,sarahcampos@example.net,Cook Islands,Raymondstad,bronze,2025-02-17
+CUST-015,Jocelyn Wright,morganbrianna@example.org,Namibia,North Chad,gold,2025-12-14
+CUST-016,Austin Johnson,chad34@example.net,Libyan Arab Jamahiriya,New David,silver,2025-09-12
+CUST-017,Dana Kennedy,glee@example.net,Jersey,Rodneymouth,bronze,2023-07-02
+CUST-018,Victoria Garcia,zchandler@example.org,Egypt,East Amanda,bronze,2023-11-12
+CUST-019,Donald Wright,ramosmichelle@example.net,Bolivia,Lake Yvettetown,bronze,2023-08-31
+CUST-020,Sarah Martin,zolson@example.org,Chad,Smithfurt,bronze,2024-05-24
+CUST-021,Rachel Mitchell,smoore@example.org,Azerbaijan,Lake Leeton,bronze,2025-10-02
+CUST-022,Thomas Schmidt,yuchristopher@example.org,Bangladesh,Lake Michellefurt,gold,2023-10-12
+CUST-023,Laura Riley,harveyrobert@example.net,Mongolia,Sarahborough,gold,2026-02-12
+CUST-024,Cynthia Foster,stephen10@example.com,Nigeria,North Amandahaven,bronze,2024-05-24
+CUST-025,Gregory Jones,mikemoore@example.net,Romania,Cherylhaven,gold,2023-04-21
+CUST-026,Kristen Huynh,mcmillandennis@example.org,Tuvalu,Lake Angelaview,bronze,2024-06-19
+CUST-027,Michelle Harris,william40@example.org,North Macedonia,Calderonton,gold,2023-04-14
+CUST-028,Carlos Whitney,joycearnold@example.com,Monaco,North Charlesberg,gold,2025-08-03
+CUST-029,Jacob Tran,tanderson@example.com,United Arab Emirates,West Jasonbury,gold,2026-02-08
+CUST-030,Richard Henson,vdickson@example.org,Uzbekistan,Port Francisco,gold,2024-01-09
+CUST-031,Allison Doyle,kimberly63@example.com,Cayman Islands,South Monicafort,silver,2024-03-19
+CUST-032,Thomas Bailey,jeffreykeller@example.com,Greenland,Michelleview,bronze,2024-10-05
+CUST-033,Jennifer Zavala,sheila14@example.org,Mozambique,Benjaminchester,silver,2024-09-27
+CUST-034,Emily Obrien,cruzbarbara@example.com,Aruba,Smithside,gold,2026-03-10
+CUST-035,Natalie Lambert,ryan59@example.com,Panama,Lake Rachelhaven,silver,2024-08-01
+CUST-036,Erika Terry,jamesortega@example.com,Philippines,New Ashley,bronze,2024-12-29
+CUST-037,April Mitchell,mfloyd@example.net,Gibraltar,Ramosborough,bronze,2025-06-11
+CUST-038,Steven Flynn,donnacampbell@example.net,North Macedonia,Clarencebury,gold,2026-02-17
+CUST-039,Robert Hernandez,sanchezthomas@example.org,Korea,Mercadoshire,silver,2024-02-05
+CUST-040,Janet Ross,dianasmith@example.org,Slovakia (Slovak Republic),Robinsonhaven,silver,2025-03-30
+CUST-041,David Charles,danderson@example.net,Marshall Islands,Stephaniemouth,silver,2025-11-15
+CUST-042,Stephanie Simmons,vmerritt@example.com,Korea,Karenview,bronze,2025-06-26
+CUST-043,Mr. Jeremiah Reeves,josephflores@example.net,Belgium,East Jesse,bronze,2026-03-22
+CUST-044,Daniel Perry,amy60@example.org,Syrian Arab Republic,Priceshire,silver,2026-03-24
+CUST-045,Spencer Johnston,wsmith@example.com,Sao Tome and Principe,Castanedachester,bronze,2025-07-23
+CUST-046,Kimberly Morrison,tracynelson@example.com,Antarctica (the territory South of 60 deg S),Rogersfurt,bronze,2023-12-21
+CUST-047,Tamara Hooper,meadowsbrittany@example.net,Anguilla,Lake Roymouth,silver,2024-01-16
+CUST-048,James Lewis,matthew64@example.com,El Salvador,South Andrewside,bronze,2023-06-28
+CUST-049,Mrs. Marie Harrington DDS,herringjames@example.org,Nigeria,East David,silver,2026-02-11
+CUST-050,Travis Marshall,katie29@example.net,San Marino,Port Loriport,silver,2023-09-23
+CUST-051,Tanya Johnston,tsanders@example.org,Belarus,North Heidi,gold,2024-07-20
+CUST-052,Lindsay Martinez,reedross@example.com,Bangladesh,Alexanderchester,silver,2025-05-09
+CUST-053,Tyler Reid,bzimmerman@example.org,Saint Martin,Christinaside,bronze,2025-04-29
+CUST-054,Roger Vargas,melissa14@example.com,Ecuador,Hudsonfurt,gold,2024-09-12
+CUST-055,Samuel White,michaelgreen@example.com,Turkmenistan,Angelahaven,silver,2024-01-30
+CUST-056,Nathan Freeman,hannahbrewer@example.com,Kiribati,North Kellyfurt,gold,2026-03-18
+CUST-057,Matthew Wood,ronald85@example.com,Reunion,Nelsonview,bronze,2024-04-01
+CUST-058,Corey Wilson,jamesrodgers@example.com,Saint Kitts and Nevis,Tinaborough,silver,2024-07-12
+CUST-059,Christopher Smith,joshuamccann@example.net,French Guiana,Lake Miranda,bronze,2025-05-10
+CUST-060,Adam Mitchell,lalexander@example.org,El Salvador,Wilsonland,gold,2024-12-21
+CUST-061,Kenneth Parks Jr.,christopher31@example.net,Serbia,Obrienbury,silver,2025-06-28
+CUST-062,Terry Evans,ntorres@example.org,New Zealand,Port Jaredborough,gold,2024-05-24
+CUST-063,Brooke Thompson,moorericky@example.net,Nepal,Carterbury,gold,2024-06-29
+CUST-064,Michele Gibson,sandrafrench@example.net,Namibia,South Danny,silver,2024-03-23
+CUST-065,Susan Serrano,brownlaura@example.net,San Marino,Scottmouth,gold,2026-03-13
+CUST-066,James Nelson,mkim@example.org,Tuvalu,Navarroview,bronze,2023-05-19
+CUST-067,Vernon Huff,keyemily@example.com,Morocco,Port Katelynfort,gold,2025-06-23
+CUST-068,Sydney White,fwalters@example.org,Latvia,Rickymouth,bronze,2026-02-13
+CUST-069,Christopher Jenkins,zroberts@example.net,Argentina,Millerview,bronze,2024-08-23
+CUST-070,Raymond Hancock,sandovalamy@example.com,Austria,New Michael,gold,2025-05-22
+CUST-071,Olivia Harris,sarakim@example.net,Libyan Arab Jamahiriya,North Teresabury,bronze,2023-12-11
+CUST-072,Adam Russell,victoriadurham@example.com,Yemen,Lake Marilynfort,silver,2024-07-05
+CUST-073,Denise Davenport,jsanchez@example.org,Hungary,New William,bronze,2023-11-07
+CUST-074,Desiree Tyler,ymorgan@example.net,Ethiopia,West Jessicashire,bronze,2025-09-25
+CUST-075,Mrs. Brittany Ryan MD,ugibson@example.org,Qatar,New Patrick,bronze,2025-01-06
+CUST-076,Patrick Thornton,qhughes@example.net,Canada,Hannaberg,silver,2025-05-28
+CUST-077,Evelyn Garcia,dgarcia@example.org,Saint Helena,South Monica,silver,2023-12-04
+CUST-078,Richard Baker,vsantos@example.net,Togo,Finleyfort,silver,2025-07-27
+CUST-079,Barry Welch,wendy16@example.org,Senegal,South Garrettport,gold,2023-05-23
+CUST-080,Robert Carter,ryan38@example.com,Mongolia,East Gregory,silver,2025-11-10
+CUST-081,Lisa Allen,jesselittle@example.com,Equatorial Guinea,Port Stevenport,bronze,2026-02-24
+CUST-082,Angela Landry,danielle64@example.com,Tanzania,Jamesfurt,silver,2025-04-28
+CUST-083,James Howard,victoria40@example.net,Indonesia,Alanton,silver,2025-11-06
+CUST-084,Sandra Leach,catherinegomez@example.net,Comoros,Ericaberg,bronze,2025-12-09
+CUST-085,Mark Williams,xjohnson@example.net,Bulgaria,West Markchester,gold,2024-01-06
+CUST-086,Richard Walter,alyssa42@example.com,United States Minor Outlying Islands,Coffeyport,silver,2024-09-16
+CUST-087,Julie Jones,michelleramsey@example.com,Tanzania,Christopherfurt,gold,2023-04-30
+CUST-088,Caleb Richardson,brenda51@example.net,Djibouti,Johnsonside,gold,2024-08-30
+CUST-089,Connie Brown,tblankenship@example.net,Ireland,East Brandonton,gold,2024-07-24
+CUST-090,Audrey Young DDS,qchavez@example.net,Qatar,Matthewsberg,bronze,2025-01-12
+CUST-091,Sandra Gilbert,antonio53@example.com,Kenya,Port Michael,gold,2026-03-09
+CUST-092,Steven Newman,sandersjames@example.org,Yemen,Davisborough,gold,2025-12-30
+CUST-093,Tricia Williams,john29@example.org,Bangladesh,New Jason,bronze,2024-04-04
+CUST-094,Charles Lester,ramireztracey@example.org,Mauritius,Laurenville,gold,2026-01-29
+CUST-095,Bonnie Howard,briannasmith@example.com,Austria,Lake Robert,gold,2023-10-02
+CUST-096,Karen Strickland,hayesjeffrey@example.net,Aruba,Stephentown,bronze,2023-07-12
+CUST-097,Dr. Jessica Rodriguez DDS,fjones@example.com,New Caledonia,North David,bronze,2025-12-03
+CUST-098,Kimberly Nguyen,shawn96@example.org,South Africa,Port Dianaside,silver,2024-03-08
+CUST-099,Stephen Gutierrez,uross@example.org,Germany,Edwardsview,silver,2024-11-10
+CUST-100,Melissa Wells,deckerchristopher@example.org,Samoa,Lisaside,silver,2023-07-11
