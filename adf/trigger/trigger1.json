@@ -9,13 +9,22 @@
 					"referenceName": "pipeline1",
 					"type": "PipelineReference"
 				}
+			},
+			{
+				"pipelineReference": {
+					"referenceName": "PL_ETL_Pipeline",
+					"type": "PipelineReference"
+				},
+				"parameters": {
+					"trigger_frequency": "daily"
+				}
 			}
 		],
 		"type": "ScheduleTrigger",
 		"typeProperties": {
 			"recurrence": {
-				"frequency": "Minute",
-				"interval": 15,
+				"frequency": "Hour",
+				"interval": 1,
 				"startTime": "2026-04-26T01:14:00",
 				"timeZone": "Eastern Standard Time"
 			}
