@@ -1,0 +1,27 @@
+{
+	"name": "trigger_hourly",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "PL_ETL_Pipeline",
+					"type": "PipelineReference"
+				},
+				"parameters": {
+					"trigger_frequency": "Hourly"
+				}
+			}
+		],
+		"type": "ScheduleTrigger",
+		"typeProperties": {
+			"recurrence": {
+				"frequency": "Hour",
+				"interval": 1,
+				"startTime": "2026-04-27T20:14:00",
+				"timeZone": "Eastern Standard Time"
+			}
+		}
+	}
+}
